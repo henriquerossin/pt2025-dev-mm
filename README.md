@@ -1,7 +1,7 @@
-# pt2025-dev-mm – Prova Técnica Backend 💳
+# Payment Checkout 💳
 
-Este repositório contém a implementação do backend para uma prova técnica de estágio, desenvolvida com **Java 17 + Spring Boot**.  
-O desafio consistia em criar uma API RESTful para simular um processo de checkout de pagamento, sem persistência de dados, seguindo boas práticas de desenvolvimento.
+Este repositório contém a implementação de backend, desenvolvida com **Java 17 + Spring Boot**.  
+É uma API RESTful para simular um processo de checkout de pagamento, sem persistência de dados, seguindo boas práticas de desenvolvimento.
 
 ---
 
