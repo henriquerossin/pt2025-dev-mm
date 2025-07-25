@@ -125,4 +125,4 @@ backend/
 
 ## 🤓 Desenvolvedor
 
-Feito com empenho e muito aprendizado por Henrique Rossin – em preparação para uma vaga de estágio 🚀
+Feito com empenho e muito aprendizado por Henrique Rossin 🚀
